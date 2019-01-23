@@ -71,7 +71,7 @@ header {
 /* navはここ */
 
 nav {
-    background-color:  background-color: rgba(33, 39, 98, 0.5);
+    background-color: background-color: rgba(33, 39, 98, 0.5);
     /* 背景色を指定する */
     margin-left: 1220px;
     padding-top: 10px;
@@ -222,7 +222,7 @@ footer {
     padding-left: 710px;
     text-align: center;
     float: left;
-     text-decoration:none;
+    text-decoration: none;
     color: #1B4A8B;
 }
 
@@ -230,7 +230,7 @@ footer {
     float: left;
     padding-left: 40px;
     padding-top: 50px;
-    text-decoration:none;
+    text-decoration: none;
     text-align: center;
     color: #1B4A8B;
 }
@@ -284,7 +284,7 @@ footer {
         font-size: 13px;
         margin-left: 0px;
         padding: 30px;
-                clear: both;
+        clear: both;
     }
 
     .irare {
@@ -304,8 +304,8 @@ footer {
 
     .setsumei3 {
         font-size: 20px;
-    padding-left: 0px;
-    padding-top: 40px;
+        padding-left: 0px;
+        padding-top: 40px;
     }
 
 
@@ -313,16 +313,16 @@ footer {
         padding-top: 0px;
         padding-left: 150px;
         float: none;
-         text-decoration:none;
-    text-align: center;
+        text-decoration: none;
+        text-align: center;
     }
 
     .fb {
         padding-left: 130px;
         padding-top: 30px;
-         text-decoration:none;
-    text-align: center;
-    
+        text-decoration: none;
+        text-align: center;
+
     }
 
     .sns {
@@ -349,27 +349,35 @@ footer {
         padding-right: 40px;
 
     }
-    
+
     .photo {
-    padding: 30px;
-    background-color: #ffffff;
-    height: 600px;
-}
-    
+        padding: 30px;
+        background-color: #ffffff;
+        height: 600px;
+    }
+
     .title {
-    color: #ffffff;
-    text-align: center;
-    font-size: 45px;
-    padding-left: 15px;
-    margin-bottom: 20px;
-    font-family: "Nanum Gothic";
-}
-    
+        color: #ffffff;
+        text-align: center;
+        font-size: 45px;
+        padding-left: 15px;
+        margin-bottom: 20px;
+        font-family: "Nanum Gothic";
+    }
+
     .shop {
-    background-color: #BAD4EE;
-    color: #ffffff;
-    padding-top: 30px;
+        background-color: #BAD4EE;
+        color: #ffffff;
+        padding-top: 30px;
         height: 400px;
-    
-}
+
+    }
+
+    nav {
+        margin-top: 0px;
+        margin-bottom: 0px;
+        margin-left: 5px;
+        margin-right: 5px;
+        text-align: center;
+    }
 }
